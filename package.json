@@ -1,9 +1,9 @@
 {
-  "name": "nodejs-expressjs-mongodb-base-project",
+  "name": "code",
   "private": true,
   "version": "1.0.0",
-  "author": "TrungQuanDev - Một Lập Trình Viên",
-  "description": "https://youtube.com/@trungquandev",
+  "author": "Hong Hoang",
+  "description": "Backend project of Trello Project",
   "engines": {
     "node": "18.16.0"
   },

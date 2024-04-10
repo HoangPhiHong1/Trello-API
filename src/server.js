@@ -22,5 +22,7 @@ app.get('/', (req, res) => {
 
 app.listen(port, hostname, () => {
   // eslint-disable-next-line no-console
-  console.log(`Hello Hong, I am running at http://${ hostname }:${ port }/`)
+  console.log(`Hello I am Hong and I am running at http://${ hostname }:${ port }/`)
+  // eslint-disable-next-line no-console
+  console.log('Please read script in package json file')
 })
